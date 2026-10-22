@@ -1,16 +1,34 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with React and Vite to showcase my background, technical interests, and projects as a Computer Science graduate.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a Computer Science graduate from BRAC University, currently working at IDLC Finance PLC. My interests include software engineering, artificial intelligence, machine learning, and problem-solving.
 
-## React Compiler
+I'm passionate about learning new technologies, exploring innovative solutions, and building applications that address real-world problems.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+The project uses the following technologies and libraries:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — Building the user interface with reusable components.
+- **Vite** — Development server and production build tooling.
+- **Tailwind CSS** — Utility-first CSS styling.
+- **Lucide React** — Icons for the user interface.
+- **React Icons** — Additional icon library.
+- **JavaScript (ES Modules)** — Application logic and functionality.
+- **ESLint** — Code quality and linting.
+
+## Features
+
+- Personal introduction and professional background.
+- Portfolio sections for showcasing projects and technical interests.
+- Responsive styling using Tailwind CSS.
+- Modern, component-based React architecture.
+- Optimized production build using Vite.
+- Deployment through GitHub Pages using GitHub Actions.
+
+## Author
+
+**Salim Miah**
