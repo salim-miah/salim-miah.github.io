@@ -6,8 +6,8 @@ export const experiences = [
     date: "2026 – Present",
     category: "CURRENT",
     description:
-      "Developing practical software engineering experience in a professional financial technology environment.",
-    technologies: [".NET", "C#", "SQL Server", "Web API Development", "Software Engineering", "React", "Redux"],
+      "Developing enterprise financial applications through full-stack development, building RESTful APIs with .NET, responsive interfaces with React, Tailwind CSS, and Redux, and database solutions using SQL Server. Also designing business reports with Microsoft Report Builder to support data-driven operations.",
+    technologies: [".NET", "C#", "SQL Server", "Web API Development", "Software Engineering", "React", "Redux", "Microsoft Report Builder"],
   },
   {
     id: 2,
