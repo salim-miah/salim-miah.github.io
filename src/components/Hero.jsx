@@ -47,7 +47,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="../../public/Resume.pdf"
+            href="./Resume.pdf"
             download
             className="inline-flex items-center gap-2 rounded-xl border border-white/30 px-6 py-4 text-sm font-bold transition hover:border-accent hover:text-accent"
           >

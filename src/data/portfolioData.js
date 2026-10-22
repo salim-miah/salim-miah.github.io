@@ -87,7 +87,7 @@ export const certificates = [
     category: "CERTIFICATION",
     description:
       "HackerRank assessment for the skill Python (Basic).",
-    link: "../../public/certificates/python_basic certificate.pdf",
+    link: "./certificates/python_basic certificate.pdf",
   },
   {
     id: 2,
@@ -97,7 +97,7 @@ export const certificates = [
     category: "CERTIFICATION",
     description:
       "Participated in the Database Wizard segment of INTRAHACTIVE 1.0 where I showcased my database design and SQL skills.",
-    link: "../../public/certificates/BUCC24IH1P010.pdf",
+    link: "./certificates/BUCC24IH1P010.pdf",
   },
   {
     id: 3,
@@ -107,7 +107,7 @@ export const certificates = [
     category: "CERTIFICATION",
     description:
       "Participated in the Bit Battles: Intra BRAC University Programming Contest where I showcased my competitive programming skills.",
-    link: "../../public/certificates/BUCC24IH1P010.pdf",
+    link: "./certificates/BUCC24IH1P010.pdf",
   }
 ];
 
